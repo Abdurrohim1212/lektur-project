@@ -4,22 +4,20 @@
 
 ## About The Project
 
-<!-- Final Project - Lektur - Homepage -->
+<h2>Final Project Lektur Homepage</h2>
 
- <a href="#">
-
-       <img src="src/assets/Capture.PNG" alt="Logo">
-
+  <a href="#">
+    <img src="src/assets/Capture.PNG" alt="Logo">
   </a>
-<!-- > Final Project - Lektur - Course detail once stdudent enrolled the course -->
+<h2>Final Project Lektur Course detail once stdudent enrolled the course</h2> 
 <a href="#">
     <img src="src/assets/Course_detail.PNG" alt="Logo">
   </a>
-<!-- > Final Project - Lektur - Teacher dashboard materrail -->
+  <h2> Final Project Lektur Teacher dashboard materrail</h2>
 <a href="#">
     <img src="src/assets/teacher-dashboard-material.PNG" alt="Logo">
   </a>
-<!-- > Final Project - Lektur - Teacher dashboard for student material enrolled list -->
+<h2> Final Project Lektur Teacher dashboard for student material enrolled list</h2>
   <a href="#">
     <img src="src/assets/teacher-dashboard-for-student-material-enrolled-list.PNG" alt="Logo">
   </a>
