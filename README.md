@@ -7,12 +7,15 @@
 <a href="#">
     <img src="src/assets/Capture.PNG" alt="Logo">
   </a>
+
 <a href="#">
     <img src="src/assets/Course_detail.PNG" alt="Logo">
   </a>
+
 <a href="#">
     <img src="src/assets/teacher-dashboard-material.PNG" alt="Logo">
   </a>
+
   <a href="#">
     <img src="src/assets/teacher-dashboard-for-student-material-enrolled-list.PNG" alt="Logo">
   </a>
